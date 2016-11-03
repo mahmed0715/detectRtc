@@ -1,0 +1,23 @@
+{
+  "name": "detectrtcApp",
+  "version": "1.0.0",
+  "description": "a detect rtc extention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmed0715/detectRtc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahmed0715/detectRtc/issues"
+  },
+  "homepage": "https://github.com/mahmed0715/detectRtc#readme",
+  "dependencies": {
+    "detectrtc": "^1.3.2",
+    "express": "^4.14.0"
+  }
+}
